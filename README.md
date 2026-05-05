@@ -92,13 +92,52 @@ ITM Rescue Force is an emergency response system prototype powered by Informatio
 
 ## Project 3 — Elemental Fusion Event Management
 
-**Live Website:** [https://sites.google.com/view/elementalfusion/home](https://sites.google.com/view/elementalfusion/home)
+**Live Website:** [https://sites.google.com/view/elementalfusion/home](https://sites.google.com/view/elementalfusion/home?authuser=0)
 
 ### Overview
 
-Elemental Fusion is an event management website prototype designed to showcase a full-service event planning and coordination platform. The project demonstrates how an event company can present its services, manage bookings, and engage clients through a professional web presence.
+Elemental Fusion is a creative event management business based in Dhaka that provides full event planning and coordination for weddings, birthdays, corporate events, and social programs. The website prototype showcases how a modern, tech-enabled event company presents its services, tools, and portfolio to clients. The goal is to make every occasion stress-free and memorable by managing everything from planning to decoration.
 
-> Note: This website may require a Google account to view as it is hosted on Google Sites with restricted access settings.
+### Vision
+
+To become one of Bangladesh's most trusted and creative brands for event management through innovation and excellence.
+
+### Mission
+
+To deliver beautiful, well-planned, and affordable events that reflect creativity, professionalism, and Islamic values.
+
+### Key Features
+
+- Full event planning and coordination for weddings, birthdays, corporate events, and social programs
+- Traditional wedding features including Palki and Ghorar Gari
+- AI-powered planning and support tools
+- Digital photo albums and custom print ordering
+- Mobile app integration for client convenience
+- AI-powered drone services for events
+- Smart tools section for technology-enabled event management
+- Events gallery showcasing past work
+- Online consultation and booking contact page
+
+### Website Pages
+
+| Page | Description |
+|---|---|
+| Home | Welcome message and business introduction |
+| Services | Full list of event planning and management services |
+| Events | Portfolio of past events and work |
+| AI and App | Smart tools and technology features for events |
+| Photo Albums | Order custom photo albums and prints |
+| About | Vision, mission, and company background |
+| Contact | Consultation booking and inquiry form |
+
+### New Innovations
+
+Elemental Fusion is introducing AI-powered support, a dedicated website, a mobile app, AI-powered drone coverage, special traditional wedding features such as Palki and Ghorar Gari, and a custom photo album ordering platform for clients.
+
+### Contact (Prototype)
+
+- Location: Dhaka, Bangladesh
+- Website: [https://sites.google.com/view/elementalfusion/home](https://sites.google.com/view/elementalfusion/home?authuser=0)
 
 ---
 
