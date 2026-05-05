@@ -1,5 +1,3 @@
-# web-design-portfolio
-Website prototypes for SSIT, ITM Rescue Force and Elemental Fusion
 # Web Design Portfolio — Website Prototypes
 
 This repository contains the documentation and reference links for three website prototypes built using Google Sites. Each project represents a unique real-world system designed as part of an academic or professional portfolio.
